@@ -12,7 +12,7 @@ Desafio de Projeto Git/GitHub
 
 5. Polimorfismo
 
-## IDE's
+## IDEs
 
 - Eclipse
 
